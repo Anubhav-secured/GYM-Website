@@ -1,4 +1,4 @@
-# [GYM-Website]
+# GYM-Website
 <h3>It is a basic gym website using frontend </h3>
 <h4>Provides the landing page of a gym website </h4>
 <h4>Contains navigation Bar having different sections</h4>
